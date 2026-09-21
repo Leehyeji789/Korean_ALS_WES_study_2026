@@ -1,0 +1,19 @@
+# Individual-level inputs and generated results are never committed.
+inputs/
+results/
+example_run/
+config.R
+*.rds
+*.RData
+*.Rhistory
+Rplots.pdf
+*.xlsx
+*.mt/
+*.ht/
+*.vcf*
+*.bam*
+*.cram*
+*.log
+__pycache__/
+.Rproj.user/
+.DS_Store
